@@ -86,7 +86,7 @@ const App = () => {
     }
     if(matchCount === 5){
       status="WIN";
-      handleMessage("YOU WON")
+      handleMessage("CONRATULATION! YOU WON")
     }
     else if(rowIndex+1 === 6){
       status="LOST";
@@ -146,8 +146,8 @@ const App = () => {
   return (
         <div className='container'>
           <div className='top'>
-            <h1 className='title'>WORDS WORDLE</h1>
-            <p>Guess the current word. You can have 6 attempt and every correct letter you get will turn into yellow as a hint.</p>
+            <h1 className='title'>WORDS GUESSIN'</h1>
+            <p>Guess the current word. You can have 6 attempt and every correct letter you get will turn into yellow as a hint. The letter in proper position will turn into green.</p>
             <button className="reset-board" onClick={resetBoard}>refresh</button>
           </div>
           {message && <div className='message'>
