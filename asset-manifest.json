@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-guess/static/css/main.9c42e345.css",
+    "main.js": "/word-guess/static/js/main.c3e6aaeb.js",
+    "index.html": "/word-guess/index.html",
+    "main.9c42e345.css.map": "/word-guess/static/css/main.9c42e345.css.map",
+    "main.c3e6aaeb.js.map": "/word-guess/static/js/main.c3e6aaeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c42e345.css",
+    "static/js/main.c3e6aaeb.js"
+  ]
+}
