@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[the deployed application](https://alma-dev914.github.io/word-guess/)
+[The deployed application](https://alma-dev914.github.io/word-guess/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
